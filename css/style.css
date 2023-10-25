@@ -1,7 +1,12 @@
 body {
-    background-color: palevioletred;
+    background-color: rgb(182, 141, 155);
     text-align: center;
 }
 h1{
-    color: blueviolet;
+    color: rgb(226, 168, 43);
+}
+footer a {
+    color: rgb(250, 215, 218);
+    margin: 0 10px;
+
 }
